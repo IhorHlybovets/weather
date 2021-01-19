@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<MIUI_Theme_Values >
+
+<!--bid_toggle_on-->
+<drawable name="ic_qs_big_tile_bg_0.9.png">qs_big_on.9.png</drawable>
+<drawable name="ic_qs_big_tile_bg_1.9.png">qs_big_on.9.png</drawable>
+<drawable name="ic_qs_big_tile_bg_2.9.png">qs_big_on.9.png</drawable>
+<drawable name="ic_qs_big_tile_bg_3.9.png">qs_big_on.9.png</drawable>
+<drawable name="ic_qs_big_tile_bg_4.9.png">qs_big_on.9.png</drawable>
+
+<!--bid_toggle_off_inactive-->
+<drawable name="ic_qs_big_tile_bg_inactive_0.9.png">qs_big_off.9.png</drawable>
+<drawable name="ic_qs_big_tile_bg_inactive_1.9.png">qs_big_off.9.png</drawable>
+<drawable name="ic_qs_big_tile_bg_inactive_2.9.png">qs_big_off.9.png</drawable>
+<drawable name="ic_qs_big_tile_bg_inactive_3.9.png">qs_big_off.9.png</drawable>
+<drawable name="ic_qs_big_tile_bg_inactive_4.9.png">qs_big_off.9.png</drawable>
+
+<!--bid_toggle_off_unavailable-->
+<drawable name="ic_qs_big_tile_bg_unavailable_0.9.png">qs_big_off.9.png</drawable>
+<drawable name="ic_qs_big_tile_bg_unavailable_1.9.png">qs_big_off.9.png</drawable>
+<drawable name="ic_qs_big_tile_bg_unavailable_2.9.png">qs_big_off.9.png</drawable>
+<drawable name="ic_qs_big_tile_bg_unavailable_3.9.png">qs_big_off.9.png</drawable>
+<drawable name="ic_qs_big_tile_bg_unavailable_4.9.png">qs_big_off.9.png</drawable>
+
+<!--ic_sysbar_bg-->
+<drawable name="ic_sysbar_bg.9.png">ic_sysbar_bg.9.png</drawable>
+<drawable name="ic_sysbar_bg_darkmode.9.png">ic_sysbar_bg.9.png</drawable>
+<drawable name="ic_sysbar_bg_darkmode_cts.9.png">ic_sysbar_bg.9.png</drawable>
+<drawable name="ic_sysbar_bg_land.9.png">ic_sysbar_bg.9.png</drawable>
+<drawable name="ic_sysbar_bg_land_darkmode.9.png">ic_sysbar_bg.9.png</drawable>
+<drawable name="ic_sysbar_bg_land_darkmode_cts.9.png">ic_sysbar_bg.9.png</drawable>
+
+<!--ic_cc_qs-->
+<drawable name="ic_cc_qs_bg_active_auto_brightness.9.png">ic_cc_qs.9.png</drawable>
+<drawable name="ic_cc_qs_bg_active_battery_related.9.png">ic_cc_qs.9.png</drawable>
+<drawable name="ic_cc_qs_bg_active_normal.9.png">ic_cc_qs.9.png</drawable>
+<drawable name="ic_cc_qs_bg_inactive.9.png">ic_cc_qs.9.png</drawable>
+<drawable name="ic_cc_qs_bg_unavailable.9.png">ic_cc_qs.9.png</drawable>
+
+<!--qs_others-->
+<!--<drawable name="qs_control_detail_bg.9.png">qs_o.9.png</drawable>-->
+<!--<drawable name="qs_control_detail_item_bg.9.png">qs_o.9.png</drawable>-->
+<!--<drawable name="qs_customizer_bg.9.png">qs_o.9.png</drawable>-->
+
+</MIUI_Theme_Values>
