@@ -9,11 +9,7 @@
 <drawable name="ic_qs_big_tile_bg_4.9.png">qs_big_on.9.png</drawable>
 
 <!--bid_toggle_off_inactive-->
-<drawable name="ic_qs_big_tile_bg_inactive_0.9.png">qs_big_off.9.png</drawable>
-<drawable name="ic_qs_big_tile_bg_inactive_1.9.png">qs_big_off.9.png</drawable>
-<drawable name="ic_qs_big_tile_bg_inactive_2.9.png">qs_big_off.9.png</drawable>
-<drawable name="ic_qs_big_tile_bg_inactive_3.9.png">qs_big_off.9.png</drawable>
-<drawable name="ic_qs_big_tile_bg_inactive_4.9.png">qs_big_off.9.png</drawable>
+
 
 <!--bid_toggle_off_unavailable-->
 <drawable name="ic_qs_big_tile_bg_unavailable_0.9.png">qs_big_off.9.png</drawable>
